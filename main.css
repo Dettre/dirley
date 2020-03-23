@@ -69,13 +69,9 @@ p{
     width: 220px;
     height: 200px;
     margin: 6%;
-    
+    box-shadow: 9px 1px 19px rgba(0,0,0,9);
     }
 
-.main .gallery img{
-    
-    box-shadow: 9px 1px 19px rgba(0,0,0,9);
-}
 .main .gallery video{
     
     box-shadow: 9px 1px 19px rgba(0,0,0,9);
