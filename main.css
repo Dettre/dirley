@@ -52,7 +52,7 @@ p{
 }
 .main{
     max-width: 100%;
-    height: auto;
+    height: 40%;
     position: relative;
     text-align: center;
     display: flex;
