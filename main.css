@@ -134,7 +134,7 @@ fieldset{
     background: url('icone-mensagem.png') no-repeat 95% 95%;
                 
  }
-@media (max-width:600px){ 
+@media (max-width:500px){ 
   form{ 
     margin-left: 10px;
     
