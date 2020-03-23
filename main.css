@@ -66,6 +66,7 @@ p{
     height: 200px;
     margin: 3%;
     flex-direction: row;
+    position: relative;
 }
 
 .main .gallery img{
