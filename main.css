@@ -60,7 +60,7 @@ p{
    
     text-align: center;
     display: flex;
-    
+     position: relative;
     flex-wrap: wrap;
     
     
@@ -68,7 +68,7 @@ p{
 .main .gallery img{
     width: 250px;
     height: 160px;
-    position: relative;
+   
     box-shadow: 9px 1px 19px rgba(0,0,0,9);
     
     }
