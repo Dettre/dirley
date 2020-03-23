@@ -62,7 +62,7 @@ p{
     display: flex;
     
     flex-wrap: wrap;
-    top: 4px;
+    top: 1px;
     bottom: 5px;
    }	
 .main .gallery img{
