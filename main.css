@@ -50,8 +50,17 @@ p{
 .landing .welcome p{
     line-height: 1.8rem;
 }
-
-
+.main{
+    max-width: 100%;
+    height: auto;
+    position: relative;
+    text-align: center;
+    display: flex;
+    padding: 10px;
+    flex-wrap: wrap;
+    top: 0px;
+   }	 
+  
 .description{
     
     background-image: url(fundo2.jpg);
