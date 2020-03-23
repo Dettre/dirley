@@ -64,10 +64,8 @@ p{
 .main .gallery img{
     width: 220px;
     height: 200px;
-    
-    padding: 10px;
-    
-flex-direction: row;
+    margin: 3%;
+    flex-direction: row;
 }
 
 .main .gallery img{
