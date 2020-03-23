@@ -62,8 +62,8 @@ p{
     bottom: 5%;
    }	
 .main .gallery img{
-    width: auto;
-    height: 40%;
+    width: 220px;
+    height: 200px;
     margin: 3%;
     
 flex-direction: row;
