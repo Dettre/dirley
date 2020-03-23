@@ -70,6 +70,7 @@ p{
     height: 200px;
     margin: 6px;
     box-shadow: 9px 1px 19px rgba(0,0,0,9);
+    position: relative;
     }
 
 .main .gallery video{
