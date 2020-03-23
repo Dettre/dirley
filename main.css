@@ -62,8 +62,8 @@ p{
     display: flex;
     
     flex-wrap: wrap;
-    top: 1px;
-    bottom: 5px;
+    top: 0;
+    bottom: 2px;
    }	
 .main .gallery img{
     width: 300px;
