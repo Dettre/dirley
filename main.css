@@ -60,7 +60,7 @@ p{
     position: relative;
     text-align: center;
     display: flex;
-    flex-direction: row;
+    
     flex-wrap: wrap;
     top: 4px;
     bottom: 5px;
