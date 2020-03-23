@@ -136,7 +136,8 @@ fieldset{
  }
 @media (max-width:300px){ 
   form{ 
-    margin-left: 2%;
-    
+  margin-left: 0;
+    width: 350px;
+    height: 270px;
 }
 }
