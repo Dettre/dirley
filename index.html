@@ -103,8 +103,13 @@
   z-index:1000;" target="_blank">
 <i style="margin-top:16px" class="fa fa-whatsapp"></i>
        
-      
+    <script>
+	var botao = document.querySelector('h2');
+	    botao.addEventListener('mouseover', function(){
+		botao.style.fontSize = '40px';	
+			});
+			botao.addEventListener('mouseout', function(){
+		botao.style.fontSize = '25px'});
+		</script>  
     </body>
-    
-    
-</html>
+    </html>
